@@ -1,1 +1,2 @@
-# frist-project
+#!bin/bash
+workin on frist project
